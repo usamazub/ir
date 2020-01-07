@@ -1,0 +1,5 @@
+pemilihan umum_documents.txt AP = 0.187
+pemilihan umum presiden_documents.txt AP = 0.268
+penetapan pemilihan umum presiden_documents.txt AP = 0.281
+
+MAP = 0.245

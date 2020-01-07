@@ -1,0 +1,23 @@
+Edit Distance
+kitten kitten 0
+kitten sitten 1
+kitten sittin 2
+kitten kitty 2
+sitten sitten 0
+sitten sittin 1
+sitten kitty 3
+sittin sittin 0
+sittin kitty 3
+kitty kitty 0
+
+Unigram Overlap
+kitten kitten 6
+kitten sitten 5
+kitten sittin 4
+kitten kitty 4
+sitten sitten 6
+sitten sittin 5
+sitten kitty 3
+sittin sittin 6
+sittin kitty 3
+kitty kitty 5

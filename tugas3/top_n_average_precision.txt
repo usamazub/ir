@@ -1,0 +1,12 @@
+pemilihan umum_documents.txt top 10 AP = 0.125
+pemilihan umum_documents.txt top 20 AP = 0.201
+pemilihan umum_documents.txt top 100 AP = 0.187
+
+pemilihan umum presiden_documents.txt top 10 AP = 0.183
+pemilihan umum presiden_documents.txt top 20 AP = 0.26
+pemilihan umum presiden_documents.txt top 100 AP = 0.268
+
+penetapan pemilihan umum presiden_documents.txt top 10 AP = 0.163
+penetapan pemilihan umum presiden_documents.txt top 20 AP = 0.269
+penetapan pemilihan umum presiden_documents.txt top 100 AP = 0.281
+
